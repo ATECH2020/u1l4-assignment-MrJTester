@@ -10,6 +10,7 @@ class SecondsPastMidnight {
         int number = scanner.nextInt();
 
         //Your code goes here
+        System.out.print("this is a test");
 
 
         // closing the scanner object
